@@ -1,0 +1,65 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "system", "system7.vcproj", "{CB7501A0-6A90-4380-B4A1-FAB8A6599819}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gebsplibd", "..\..\gebsplib\Projects\gebsplib7.vcproj", "{7560D18D-D07C-4707-ABB5-ACB233C2E11A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baselib", "..\..\baselib\Projects\baselib.vcproj", "{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DebugNoSq = DebugNoSq
+		DebugNoSqNIS = DebugNoSqNIS
+		Release = Release
+		ReleaseNoSq = ReleaseNoSq
+		ReleaseNoSqNIS = ReleaseNoSqNIS
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.Debug.ActiveCfg = Debug|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.Debug.Build.0 = Debug|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.DebugNoSq.ActiveCfg = DebugNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.DebugNoSq.Build.0 = DebugNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.DebugNoSqNIS.ActiveCfg = DebugNoSqNIS|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.DebugNoSqNIS.Build.0 = DebugNoSqNIS|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.Release.ActiveCfg = Release|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.Release.Build.0 = Release|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.ReleaseNoSqNIS.ActiveCfg = ReleaseNoSqNIS|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.ReleaseNoSqNIS.Build.0 = ReleaseNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Debug.ActiveCfg = Debug|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Debug.Build.0 = Debug|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSq.ActiveCfg = DebugNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSq.Build.0 = DebugNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSqNIS.ActiveCfg = DebugNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSqNIS.Build.0 = DebugNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Release.ActiveCfg = Release|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Release.Build.0 = Release|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSqNIS.ActiveCfg = ReleaseNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSqNIS.Build.0 = ReleaseNoSqNIS|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.Debug.ActiveCfg = Debug|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.Debug.Build.0 = Debug|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.DebugNoSq.ActiveCfg = Debug|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.DebugNoSq.Build.0 = Debug|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.DebugNoSqNIS.ActiveCfg = Debug|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.DebugNoSqNIS.Build.0 = Debug|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.Release.ActiveCfg = Release|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.Release.Build.0 = Release|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.ReleaseNoSq.ActiveCfg = Release|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.ReleaseNoSq.Build.0 = Release|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.ReleaseNoSqNIS.ActiveCfg = Release|Win32
+		{FE7D700A-AE6D-4E6D-81E9-9FC584D3E440}.ReleaseNoSqNIS.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

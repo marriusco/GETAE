@@ -1,0 +1,11 @@
+MOGE WALKER SCRIPTS
+Project File: Getae\moge\Projects\moge7.vcproj
+For MOGE.EXE and WALKER.DLL BUILD Release / Debug configurations.
+
+
+XMOGE NPXMOGE
+Project File: np_xmoge\npxmoge.vcproj
+For XMOGE.DLL or NPXMOGE.DLL build *NoSq configurations.
+
+:: Unsolved Externals ! - > Rebuild Release/Debug - NoSq all libraries
+   from this workspace again.

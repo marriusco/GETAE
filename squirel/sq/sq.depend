@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1143415276 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\sq\sq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<crtdbg.h>
+	<conio.h>
+	<squirrel.h>
+	<sqstdblob.h>
+	<sqstdsystem.h>
+	<sqstdio.h>
+	<sqstdmath.h>
+	<sqstdstring.h>
+	<sqstdaux.h>
+
+1143415276 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\squirrel.h
+
+1127685380 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\sqstdblob.h
+
+1127685380 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\sqstdsystem.h
+
+1127685380 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\sqstdio.h
+
+1127685380 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\sqstdmath.h
+
+1127685380 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\sqstdstring.h
+
+1127685380 c:\_dnl3\squirrel2_1_0_sqplus_15\squirrel2_1_0_sqplus_15\include\sqstdaux.h
+

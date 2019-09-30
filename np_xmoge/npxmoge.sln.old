@@ -1,0 +1,62 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "npxmoge", "npxmoge.vcproj", "{82338389-4B97-4E2B-9092-49A4CA87AF8C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD} = {B1972F2B-329C-4F77-8392-3C70147B8EBD}
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A} = {7560D18D-D07C-4707-ABB5-ACB233C2E11A}
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819} = {CB7501A0-6A90-4380-B4A1-FAB8A6599819}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "system", "..\system\Projects\system7.vcproj", "{CB7501A0-6A90-4380-B4A1-FAB8A6599819}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gebsplibd", "..\gebsplib\Projects\gebsplib7.vcproj", "{7560D18D-D07C-4707-ABB5-ACB233C2E11A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xmoge", "xmoge.vcproj", "{9451DF23-B897-40E4-84DE-5907C517874E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD} = {B1972F2B-329C-4F77-8392-3C70147B8EBD}
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A} = {7560D18D-D07C-4707-ABB5-ACB233C2E11A}
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819} = {CB7501A0-6A90-4380-B4A1-FAB8A6599819}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baselib", "..\baselib\Projects\baselib.vcproj", "{B1972F2B-329C-4F77-8392-3C70147B8EBD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		DebugNoSq = DebugNoSq
+		ReleaseNoSq = ReleaseNoSq
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{82338389-4B97-4E2B-9092-49A4CA87AF8C}.DebugNoSq.ActiveCfg = Debug|Win32
+		{82338389-4B97-4E2B-9092-49A4CA87AF8C}.DebugNoSq.Build.0 = Debug|Win32
+		{82338389-4B97-4E2B-9092-49A4CA87AF8C}.ReleaseNoSq.ActiveCfg = Release|Win32
+		{82338389-4B97-4E2B-9092-49A4CA87AF8C}.ReleaseNoSq.Build.0 = Release|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.DebugNoSq.ActiveCfg = DebugNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.DebugNoSq.Build.0 = DebugNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSq.ActiveCfg = DebugNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSq.Build.0 = DebugNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{9451DF23-B897-40E4-84DE-5907C517874E}.DebugNoSq.ActiveCfg = DebugNoSq|Win32
+		{9451DF23-B897-40E4-84DE-5907C517874E}.DebugNoSq.Build.0 = DebugNoSq|Win32
+		{9451DF23-B897-40E4-84DE-5907C517874E}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{9451DF23-B897-40E4-84DE-5907C517874E}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD}.DebugNoSq.ActiveCfg = Debug|Win32
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD}.DebugNoSq.Build.0 = Debug|Win32
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD}.ReleaseNoSq.ActiveCfg = Release|Win32
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD}.ReleaseNoSq.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		MUST READ.TXT = MUST READ.TXT
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

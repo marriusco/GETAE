@@ -1,0 +1,35 @@
+****************************************************
+                   FAULT 
+****************************************************
+Address F7F770598
+    Flags 18
+        with 59 70 F7 F7 78 E6 33 00 01 01 00 80 6F E7 4C 00 59 70 F7 F7 
+
+***  0 called from $ADDRESS:0040643C
+        with 14 E7 33 00 66 46 9E 7F B0 E6 33 00 44 EF A3 7F FD FF FF FF 
+
+***  1 called from $ADDRESS:7B43D535
+        with BC CA 49 00 01 01 00 80 20 E7 33 00 56 60 48 7B 14 E7 33 00 
+
+***  2 called from $ADDRESS:7B486056
+        with 38 EB 33 00 08 FF 33 00 6C E8 33 00 D8 E7 33 00 5C F1 33 00 
+
+***  3 called from $ADDRESS:7BC7DA85
+        with 38 EB 33 00 08 FF 33 00 6C E8 33 00 D8 E7 33 00 20 60 48 7B 
+
+***  4 called from $ADDRESS:7BC7DA57
+        with 38 EB 33 00 08 FF 33 00 6C E8 33 00 D8 E7 33 00 20 60 48 7B 
+
+***  5 called from $ADDRESS:7BC7E098
+        with 00 00 00 00 76 0E C8 7B 30 E8 33 00 B4 BC CD 7B 38 EB 33 00 
+
+***  6 called from $ADDRESS:7BC80E8E
+        with 00 00 00 00 40 FD BB F7 D4 07 00 00 9B 15 C8 7B 38 EB 33 00 
+
+***  7 called from $ADDRESS:7BC8159B
+        with BE BA AD DE 38 EB 33 00 6C E8 33 00 3F 00 01 00 00 00 00 00 
+
+***  8 called from $ADDRESS:DEADBABE
+        with 
+
+***  9 called from $ADDRESS:00000000

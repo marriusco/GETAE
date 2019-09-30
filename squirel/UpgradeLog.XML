@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="squirrel">
+</Property><Property Name="Solution File" Value="E:\mco_code_collection\_prjs\Getae\squirel\squirrel.sln">
+</Property><Property Name="Date" Value="Saturday, August 16, 2008">
+</Property><Property Name="Time" Value="9:56 AM">
+</Property></Properties><Event ErrorLevel="0" Project="sq" Source="sq\sq.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="sq" Source="sq\sq.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="sq" Source="sq\sq.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="sq" Source="sq\sq.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="sqstdlib" Source="sqstdlib\sqstdlib.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="sqstdlib" Source="sqstdlib\sqstdlib.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="sqstdlib" Source="sqstdlib\sqstdlib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="squirrel" Source="squirrel\squirrel.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="squirrel" Source="squirrel\squirrel.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="squirrel" Source="squirrel\squirrel.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="sqplus" Source="sqplus\sqplus.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="sqplus" Source="sqplus\sqplus.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="sqplus" Source="sqplus\sqplus.vcproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="DXSquirrel" Source="DXSquirrel\DXSquirrel.vcproj" Description="Failed to upgrade project file 'E:\mco_code_collection\_prjs\Getae\squirel\DXSquirrel\DXSquirrel.vcproj'.  Please make sure the file exists and is not write-protected.">
+</Event><Event ErrorLevel="2" Project="DXSquirrel" Source="DXSquirrel\DXSquirrel.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="DXSquirrel" Source="DXSquirrel\DXSquirrel.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="testSqPlus" Source="testSqPlus\testSqPlus.vcproj" Description="Failed to upgrade project file 'E:\mco_code_collection\_prjs\Getae\squirel\testSqPlus\testSqPlus.vcproj'.  Please make sure the file exists and is not write-protected.">
+</Event><Event ErrorLevel="2" Project="testSqPlus" Source="testSqPlus\testSqPlus.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="testSqPlus" Source="testSqPlus\testSqPlus.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="sqdbg" Source="sqdbg\sqdbg.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="sqdbg" Source="sqdbg\sqdbg.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="sqdbg" Source="sqdbg\sqdbg.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="sqdbg" Source="sqdbg\sqdbg.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="sqdbglib" Source="sqdbglib\sqdbglib.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="sqdbglib" Source="sqdbglib\sqdbglib.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="sqdbglib" Source="sqdbglib\sqdbglib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="testSqPlus2" Source="testSqPlus2\testSqPlus2.vcproj" Description="Failed to upgrade project file 'E:\mco_code_collection\_prjs\Getae\squirel\testSqPlus2\testSqPlus2.vcproj'.  Please make sure the file exists and is not write-protected.">
+</Event><Event ErrorLevel="2" Project="testSqPlus2" Source="testSqPlus2\testSqPlus2.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="testSqPlus2" Source="testSqPlus2\testSqPlus2.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="minimalSqPlus" Source="minimalSqPlus\minimalSqPlus.vcproj" Description="Failed to upgrade project file 'E:\mco_code_collection\_prjs\Getae\squirel\minimalSqPlus\minimalSqPlus.vcproj'.  Please make sure the file exists and is not write-protected.">
+</Event><Event ErrorLevel="2" Project="minimalSqPlus" Source="minimalSqPlus\minimalSqPlus.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="minimalSqPlus" Source="minimalSqPlus\minimalSqPlus.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="squirrel.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="squirrel.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,492 @@
+# depslib dependency file v1.0
+1135348991 c:\mco\getae\geticnetsrv\gameserver.cpp
+	"stdafx.h"
+	"GameServer.h"
+	"buffer.h"
+	"BzipCompressor.h"
+	"getae.h"
+	"Player.h"
+
+1133819062 c:\mco\getae\geticnetsrv\stdafx.h
+	<stdio.h>
+
+1135349421 c:\mco\getae\geticnetsrv\gameserver.h
+	"getae.h"
+	"tpool.h"
+	"g_server.h"
+	"script.h"
+	"MiniBt.h"
+	"LevelManager.h"
+
+1134667993 c:\mco\getae\genet\tpool.h
+	"sock.h"
+	<vector>
+	<deque>
+
+1133816590 c:\mco\getae\genet\sock.h
+	"baselib.h"
+
+1132004006 c:\mco\getae\baselib\gnu_win\os.h
+	<windows.h>
+	<winsock.h>
+	<process.h>
+	<direct.h>
+	<stdio.h>
+	<tchar.h>
+	<stdarg.h>
+	<assert.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1134747353 c:\mco\getae\genet\g_server.h
+	"tpool.h"
+	"buffer.h"
+	"tqueue.h"
+	"recthread.h"
+	"listenthread.h"
+	"procthread.h"
+	"clihandler.h"
+	"../baselib/baselib.h"
+	"../baselib/baseutils.h"
+
+1134682617 c:\mco\getae\genet\buffer.h
+	"getae.h"
+	"tpool.h"
+
+1134744285 c:\mco\getae\genet\tqueue.h
+	"buffer.h"
+
+1131998075 c:\mco\getae\genet\recthread.h
+	"tpool.h"
+	"buffer.h"
+	"sock.h"
+
+1132077614 c:\mco\getae\genet\listenthread.h
+	"sock.h"
+
+1132077614 c:\mco\getae\genet\procthread.h
+	"os.h"
+
+1134682022 c:\mco\getae\genet\clihandler.h
+	"buffer.h"
+
+1135359220 c:\mco\getae\baselib\baselib.h
+	"WIN_WIN\\os.h"
+	"GNU_WIN\\os.h"
+	"GNU_LINUX/os.h"
+
+1135280791 c:\mco\getae\baselib\win_win\\os.h
+	<windows.h>
+	<winsock.h>
+	<process.h>
+	<direct.h>
+	<stdio.h>
+	<tchar.h>
+	<stdarg.h>
+	<assert.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<stdlib.h>
+
+1132004006 c:\mco\getae\baselib\gnu_win\\os.h
+	<windows.h>
+	<winsock.h>
+	<process.h>
+	<direct.h>
+	<stdio.h>
+	<tchar.h>
+	<stdarg.h>
+	<assert.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1135012094 c:\mco\getae\baselib\gnu_linux\os.h
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdarg.h>
+	<errno.h>
+	<resolv.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<arpa/inet.h>
+	<sys/ioctl.h>
+	<asm/ioctls.h>
+	<linux/string.h>
+	<string.h>
+	<netdb.h>
+	<tcpd.h>
+	<pthread.h>
+	<semaphore.h>
+
+1135367392 c:\mco\getae\baselib\baseutils.h
+	"baselib.h"
+	<crtdbg.h>
+
+1132070034 c:\mco\getae\geticnetsrv\simulation.h
+	<string>
+	"../baselib/baselib.h"
+
+1134662722 c:\mco\getae\geticnetsrv\getae.h
+	"../baselib/baselib.h"
+	"../baselib/baseutils.h"
+	"../baselib/basecont.h"
+
+1134662820 c:\mco\getae\baselib\basecont.h
+	"baselib.h"
+	"baseutils.h"
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	<vector>
+	<string>
+	<map>
+
+1133818802 c:\mco\getae\geticnetsrv\script.h
+	"../_include/angelscript.h"
+	"../baselib/basecont.h"
+
+1118162030 c:\mco\getae\_include\angelscript.h
+
+1132006766 c:\mco\getae\geticnetsrv\bzipcompressor.h
+	"../baselib/baselib.h"
+	"../zcompress/XZip.h"
+	"../zcompress/XUnzip.h"
+
+1129034078 c:\mco\getae\zcompress\xzip.h
+
+1129034212 c:\mco\getae\zcompress\xunzip.h
+
+1131115880 c:\mco\getae\geticnetsrv\win\\inetftphttp.h
+	"../getae.h"
+	"Wininet.h"
+
+1134748478 c:\mco\getae\genet\g_server.cpp
+	"sock.h"
+	"g_server.h"
+
+1134747423 c:\mco\getae\genet\g_serverin_out.cpp
+	"sock.h"
+	"g_server.h"
+	"procthread.h"
+
+1134489168 c:\mco\getae\genet\listenthread.cpp
+	"sock.h"
+	"recthread.h"
+	"g_server.h"
+	"../baselib/baseutils.h"
+
+1134744307 c:\mco\getae\genet\procthread.cpp
+	"sock.h"
+	"recthread.h"
+	"g_server.h"
+
+1134744357 c:\mco\getae\genet\recthread.cpp
+	<assert.h>
+	"sock.h"
+	"recthread.h"
+	"g_server.h"
+
+1133820916 c:\mco\getae\genet\sock.cpp
+	<stdio.h>
+	"sock.h"
+
+1131998026 c:\mco\getae\genet\tcpserver.cpp
+	<algorithm>
+	"tcpserver.h"
+
+1132077797 c:\mco\getae\genet\tcpserver.h
+	"sock.h"
+	"../baselib/baseutils.h"
+	<vector>
+
+1132006732 c:\mco\getae\geticnetsrv\bzipcompressor.cpp
+	"stdafx.h"
+	"../baselib/baseutils.h"
+	"BzipCompressor.h"
+
+1132238557 c:\mco\getae\genet\clihandler.cpp
+	<assert.h>
+	"g_server.h"
+
+1133892574 c:\mco\getae\geticnetsrv\minibt.cpp
+	"stdafx.h"
+	"MiniBt.h"
+
+1133805819 c:\mco\getae\geticnetsrv\minibt.h
+	"../_include/bspfilestr.h"
+	"../baselib/baselib.h"
+	"../baselib/basecont.h"
+	"../baselib/baseutils.h"
+
+1133818897 c:\mco\getae\_include\bspfilestr.h
+	"..\\baselib\\baselib.h"
+
+1135359220 c:\mco\getae\\baselib\\baselib.h
+	"WIN_WIN\\os.h"
+	"GNU_WIN\\os.h"
+	"GNU_LINUX/os.h"
+
+1135280791 c:\mco\getae\\baselib\\win_win\\os.h
+	<windows.h>
+	<winsock.h>
+	<process.h>
+	<direct.h>
+	<stdio.h>
+	<tchar.h>
+	<stdarg.h>
+	<assert.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<stdlib.h>
+
+1132004006 c:\mco\getae\\baselib\\gnu_win\\os.h
+	<windows.h>
+	<winsock.h>
+	<process.h>
+	<direct.h>
+	<stdio.h>
+	<tchar.h>
+	<stdarg.h>
+	<assert.h>
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1135012094 c:\mco\getae\\baselib\\gnu_linux\os.h
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdarg.h>
+	<errno.h>
+	<resolv.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<arpa/inet.h>
+	<sys/ioctl.h>
+	<asm/ioctls.h>
+	<linux/string.h>
+	<string.h>
+	<netdb.h>
+	<tcpd.h>
+	<pthread.h>
+	<semaphore.h>
+
+1130439428 c:\mco\getae\geticnetsrv\simulation.cpp
+	"stdafx.h"
+	"MiniBt.h"
+	"Simulation.h"
+
+1131999453 c:\mco\getae\geticnetsrv\stdafx.cpp
+	"stdafx.h"
+
+1133818708 c:\mco\getae\geticnetsrv\stringscript.cpp
+	"stdafx.h"
+	<sstream>
+	<assert.h>
+	"Script.h"
+
+1135349421 c:\mco\getae\geticnetsrv\geticnetsrv.cpp
+	"stdafx.h"
+	<conio.h>
+	"getae.h"
+	"script.h"
+	"GameServer.h"
+
+1134750500 c:\mco\getae\geticnetsrv\script.cpp
+	"stdafx.h"
+	<assert.h>
+	"../baselib/baseutils.h"
+	"script.h"
+
+1132078040 c:\mco\getae\geticnetsrv\win\inetftphttp.cpp
+	"../stdafx.h"
+	"InetFtpHttp.h"
+
+1131115880 c:\mco\getae\geticnetsrv\win\inetftphttp.h
+	"../getae.h"
+	"Wininet.h"
+
+1130456100 c:\mco\getae\zcompress\xunzip.cpp
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<tchar.h>
+	"XUnzip.h"
+
+1052294868 c:\mco\getae\zcompress\xzip.cpp
+	<windows.h>
+	<time.h>
+	"xzip.h"
+
+1132002506 c:\mco\getae\baselib\win_win\os.h
+	<windows.h>
+	<winsock.h>
+	<process.h>
+	<direct.h>
+	<stdio.h>
+	<tchar.h>
+	<stdarg.h>
+	<assert.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<stdlib.h>
+
+1135355877 c:\mco\getae\geticnetsrv\gameserversim.cpp
+	"stdafx.h"
+	"getae.h"
+	"buffer.h"
+	"BzipCompressor.h"
+	"InetFtpHttp.h"
+	"script.h"
+	"Player.h"
+	"GameServer.h"
+
+1134662722 c:\mco\getae\genet\getae.h
+	"../baselib/baselib.h"
+	"../baselib/baseutils.h"
+	"../baselib/basecont.h"
+
+1134081103 c:\mco\getae\baselib\bzipcompressor.h
+	"XZip.h"
+	"XUnzip.h"
+
+1129034078 c:\mco\getae\baselib\xzip.h
+
+1129034212 c:\mco\getae\baselib\xunzip.h
+
+1134662680 c:\mco\getae\baselib\win_win\inetftphttp.h
+	"../basecont.h"
+	"Wininet.h"
+
+1135349421 c:\mco\getae\geticnetsrv\player.h
+	"clihandler.h"
+	"getae.h"
+
+1129925304 c:\mco\getae\genet\os.h
+	<windows.h>
+	<winsock2.h>
+	<winsock.h>
+	<process.h>
+	<ws2tcpip.h>
+	<stdarg.h>
+	<errno.h>
+	<resolv.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<arpa/inet.h>
+	<sys/ioctl.h>
+	<asm/ioctls.h>
+	<linux/string.h>
+	<string.h>
+	<netdb.h>
+	<tcpd.h>
+	<pthread.h>
+	<semaphore.h>
+
+1135279056 c:\mco\getae\geticnetsrv\levelmanager.h
+	"InetFtpHttp.h"
+
+1134744094 c:\mco\getae\geticnetsrv\guiclass.cpp
+	"stdafx.h"
+	"GuiClass.h"
+	"sock.h"
+
+1135349423 c:\mco\getae\geticnetsrv\guiclass.h
+	"sock.h"
+	"getae.h"
+
+1135279075 c:\mco\getae\geticnetsrv\levelmanager.cpp
+	"stdafx.h"
+	<io.h>
+	"LevelManager.h"
+	"BzipCompressor.h"
+
+1135180072 c:\mco\getae\geticnetsrv\player.cpp
+	"stdafx.h"
+	"Player.h"
+
+1134747729 c:\mco\getae\baselib\gnu_win\inetftphttp.h
+	"../basecont.h"
+	"Wininet.h"
+
+1135354183 c:\mco\getae\baselib\sock.h
+	"baselib.h"
+
+1135286003 c:\mco\getae\geticnetsrv\buffer.h
+	"getae.h"
+	"tpool.h"
+
+1135279917 c:\mco\getae\geticnetsrv\tpool.h
+	"sock.h"
+	<vector>
+	<deque>
+
+1135349067 c:\mco\getae\geticnetsrv\clihandler.h
+	"buffer.h"
+
+1135349513 c:\mco\getae\geticnetsrv\g_server.h
+	"tpool.h"
+	"buffer.h"
+	"tqueue.h"
+	"recthread.h"
+	"listenthread.h"
+	"procthread.h"
+	"clihandler.h"
+	"../baselib/baselib.h"
+	"../baselib/baseutils.h"
+
+1135281010 c:\mco\getae\geticnetsrv\tqueue.h
+	"buffer.h"
+
+1135355492 c:\mco\getae\geticnetsrv\recthread.h
+	"tpool.h"
+	"buffer.h"
+	"sock.h"
+
+1132077614 c:\mco\getae\geticnetsrv\listenthread.h
+	"sock.h"
+
+1132077614 c:\mco\getae\geticnetsrv\procthread.h
+	"os.h"
+
+1135285659 c:\mco\getae\geticnetsrv\clihandler.cpp
+	<assert.h>
+	"g_server.h"
+
+1135349963 c:\mco\getae\geticnetsrv\g_server.cpp
+	"sock.h"
+	"g_server.h"
+
+1135785779 c:\mco\getae\geticnetsrv\listenthread.cpp
+	"sock.h"
+	"recthread.h"
+	"g_server.h"
+	"../baselib/baseutils.h"
+
+1135785805 c:\mco\getae\geticnetsrv\procthread.cpp
+	"sock.h"
+	"recthread.h"
+	"g_server.h"
+
+1135785823 c:\mco\getae\geticnetsrv\recthread.cpp
+	<assert.h>
+	"sock.h"
+	"recthread.h"
+	"g_server.h"
+

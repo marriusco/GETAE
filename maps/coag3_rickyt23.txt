@@ -1,0 +1,71 @@
+-----------------------------------------------------------------------------------------
+
+Title                   : City of Sins by RickyT23
+                          
+Release Date            : This version finished/submitted 1st April 2009 (00ps missed by 1 day ;)
+
+
+
+PLEASE NOTE: - Uses coloured lighting, use a coloured lighting engine - I recommend FitzQuake 0.85
+
+
+Filename                : coag3_rickyt23.bsp, lit, txt, nebularft.tga,nebularbk.tga, 			  nebularlf.tga,nebularrt.tga,nebularup.tga,nebulardn.tga
+
+Author                  : RickyT23
+Misc. Author Info       : 25, office orchin (ex factory urchin), hard rocker! 
+                          Really hard, come n ave a go!              
+
+Email Address           : trowbridge.richard@googlemail.com
+
+Description             : City of Sins by RicyT23 - entry into the Coagula Mapping Competition 3 (2009)                         
+
+Plot                    : Youre Quest:
+
+                          Become a member of my cult!  And get de fuck outa there.  Preferably with you soul.
+                                                  
+Additional Credits to   : ID Software for quake
+                          Kell for his excellent texture set
+                          Worldcraft 3.3 (like it)
+			  Tyrann for his light tool
+                          AguirRe for his vis/bsp tools
+			  Justin Fisher for his Sky Box "Nebular"
+
+                          Also Metlslime for Fitzquake and www.celephais.net/board and newskip.exe
+
+                          Thankyou all!
+
+-----------------------------------------------------------------------------------------
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : Yup 3 starts
+Deathmatch              : Yup loads of starts and a few extra weapons + slight layout alterations ;)
+Difficulty Settings     : Easy, Normal, Ard and Nightmare selectable by typing skill (0 ,1 ,
+                          2 or 3) on console 
+New Sounds              : No
+New Graphics            : Knave.wad (thanks Kell) , original quake tex.
+Demos Replaced          : No
+Recommended Port        : This level has COLOURED LIGHTING !!!!!!
+                          Please use FitzQuake or JoeQuake, or some other engine
+                          that supports litfiles! (darkplaces works until realtime lights are activated)
+			  I recommend using FitzQuake 0.85 - earlier versions may packet overflow in a
+			  couple of places
+
+* Construction *
+
+Base                    : From scratch
+
+Editor used             : Worldcraft 3.3
+
+Construction Time       : Roughly 3-4 weeks
+
+Compile Times           : TxQbsp (AguirRe's) - not long
+                          Vis (AguirRe's)- 5 hours
+                          Tyrlite - 160 seconds
+
+How to Install          : Unzip to your quake/id1 directory run selected engine (pref FitzQuake)
+                          with: -heapsize 48000 +map coag3_start, then navigate the start map to
+			  select each one of the entries. (This map is part of a pack)
+
+-----------------------------------------------------------------------------------------

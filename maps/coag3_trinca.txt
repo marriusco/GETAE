@@ -1,0 +1,256 @@
+
+                              .x.. ~ Walls of Darkness II ~ ..x.
+  
+
+ 
+===============================================================================================
+Title                   : Walls of Darkness II
+Filename                : coag3_trinca.zip
+Author                  : Rui Neto Aka Trinca(Portugal)
+Homepage                : http://trinca.quaddicted.com
+Email Address           : trinquinha@gmail.com
+Menssenger and Gtalk    : trinquinha@gmail.com
+Description             : Quake id1 file
+Date                    : 26-03-2009
+===============================================================================================
+
+* Play Information *
+
+===============================================================================================
+
+Single Player           : Yes
+Cooperative             : Yey 4 starts
+Deathmatch              : no
+Difficulty Settings     : Yes, easy, normal, hard and nightmare supported
+New Sounds              : no
+New Graphics            : no
+New Models              : No
+New Music               : No
+Demos Replaced          : No
+
+===============================================================================================
+
+* Construction *
+
+===============================================================================================
+
+Base                    : New level from scratch
+Editor(s) used          : QuArK 6.5 Alpha 7
+map format              : Valve 220
+Known Bugs              : hope none :)
+Build Time              : 1 month and some days
+
+Texture Wad used        : Knave and some ID
+                        : http://quaddicted.com/wads/ thks Spirit                                
+
+Compile machine         : P4 2.8 512 ram
+QBSP Time               : see below
+Light Time              : see below
+VIS Time                : see below
+
+===============================================================================================
+
+* How to Use *
+
+===============================================================================================
+
+Put the .bsp file into your quake\id1\maps\ directory (folder)
+(single, multi-player)
+
+skill 0 = 58 monsters
+skill 1 = 64 monsters
+skill 2 = 70 monsters
+
+"map coag3_trinca"  (no quotes).
+and hit "Enter"
+
+===============================================================================================
+
+* story *
+
+===============================================================================================
+
+for what? nobody will read it...
+
+===============================================================================================
+
+* special thks to *
+
+===============================================================================================
+In this map:
+
+Spy        -> for beta with great advices 
+the silent -> for beta with great advices
+
+Forever:
+
+Spirit    -> for webpage hosting
+JPL       -> for the early days that he teach me how to use the editor that i use(QuArK)
+Negke     -> for motivacion when i was a noob and all the mapping teaching 
+Necros    -> for pushing me up in the next level in lights 
+aguirRe   -> for his great tools 
+
+
+ID software for best game ever!
+
+===============================================================================================
+
+* Other levels from me *
+
+===============================================================================================
+
+trincasp1 - Escape (small castle map)
+trincasp2 - forgotten tomb (Medium medieval map)
+trincasp3 - Underground Base (large base map with new progs.dat)
+tcoa - The city of Angels (medium medieval village)
+768_trinca - the tower of knowledge (small medieval map with Knave textures)
+tmqe06_trinca - Happy birthday (map for quake birthday 10 anniversary medieval stile)
+wbase - Wicked base (large base map)
+airfall - Airfall (Space map is a small and fun, i think...)
+trdmm4 - boxy arena map
+sm109_trinca - Ever saw better crap than this? (worse speedmap ever)
+sm110_trinca - Hey maybe someday i will make a good map (second worse speedmap ever)
+sm111_trinca - Metal Rave (much better map)
+sm112_trinca - Nuclear Facility (noob map but i worked a lot on it)
+sm114_trinca - Tripping Metal4_2 (theme was just one texture but i didn´t use it wel)
+sm117_trinca - Ogre Massacre (small medieval map is kind of fun only with ogres)
+sm119_trinca - Copy paste copy paste (Quad blast map)
+sm120_trinca1 - Shambler Orgy (crapy map with 60 shamblers)
+sm120_trinca2 - not much time this week i´m bored (crappie boxy map)
+sm123_trinca - DopeAtlantida ( underwater castle not bad the map)
+sm131_trinca - Fucking wicked train stacion ( basic map with a small train station and a train)
+sm134_trinca - Runecore (Medieval map with hordes and quad blast)
+sm137_trinca - tricky way (knave textures map pretty small and fun)
+sm138_trinca - underground prison (theme was tanks, had few time and only underground part rocks)
+sm143_trinca - theme was carnage (pretty small violent map with 68 Hell_nights)
+sm147_trinca - theme is unlikely Escape(used a small scrap i had)
+sm151_trinca - theme Coagula stile(made a flooting small temple)
+fbase - freaky base (Medium base map)
+tchak - the tomb of chak toh ich´ak ( Huge Maya city)
+coag3_trinca - Colagula contest 3 map (a medium castle in the void)
+
+(http://trinca.quaddicted.com/maps.html) for then!
+
+
+===============================================================================================
+
+*Compilacion details*
+
+===============================================================================================
+
+TxQBSP 1.12 -- Modified by Bengt Jardrup
+
+Inputfile: maps/coag3_trinca.map
+Outputfile: maps/coag3_trinca.bsp
+------ LoadMapFile ------
+Title: "Walls of Darkness II"
+  6878 faces
+  1149 brushes
+   611 entities
+    56 miptex
+  4505 texinfo
+
+
+------ FinishBSPFile ------
+WriteBSPFile: maps/coag3_trinca.bsp
+   974 planes        19480
+  9547 vertexes     114564
+  2106 nodes         50544
+  4505 texinfo      180200
+  7222 faces        144440
+  7784 clipnodes     62272
+  1401 leafs         39228
+  9260 marksurfaces  18520
+ 33482 surfedges    133928
+ 16796 edges         67184
+    86 textures    1124088
+       lightdata         0
+       visdata           0
+       entdata       63918
+
+Elapsed time : 0:06
+
+Peak memory used : 7.0 MB
+
+
+===============================================================================================
+
+----- Light 1.42 ---- Modified by Bengt Jardrup
+
+Extra 4x4 sampling enabled
+Fade Gate 1 set
+Additive minlight enabled
+File: maps/coag3_trinca.bsp
+611 entities read, 409 are lights, 7222 faces, 3.6G casts
+1 switchable light styles
+
+lightdatasize: 475 kb
+
+Elapsed time : 14:57
+
+===============================================================================================
+
+---- Vis 2.30 ---- Modified by Bengt Jardrup
+
+File: maps/coag3_trinca.bsp
+ 1086 portalleafs
+ 3969 numportals
+State file out of date, will be overwritten
+testlevel = 4
+
+average leafs visible: 304
+max leafs visible: 840 near (-704 1472 1088)
+c_chains: 132693060
+visdatasize: 94177 compressed from 144 kb
+
+Elapsed time : 39:31
+State   time :  0:02
+
+
+
+===============================================================================================
+
+					    Trinca  
+                                             2009
+
+              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+              @@@@                                                         @@@@
+              @@@@  Quake® is a registered trademark of id Software, Inc.  @@@@
+              @@@@                                                         @@@@
+              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+  
+                                      @                @
+                                    @@                  @@
+                                   @@                    @@
+                                 @@@                      @@@
+                               @@@@                        @@@@
+                              @@@@                          @@@@
+                             @@@@@                          @@@@@
+                            @@@@@@                          @@@@@@
+                           @@@@@@@                          @@@@@@@
+                           @@@@@@@                          @@@@@@@
+                           @@@@@@@         @@@@@@@@         @@@@@@@
+                            @@@@@@@       @@@@@@@@@@       @@@@@@@
+                             @@@@@@@         @@@@         @@@@@@@
+                              @@@@@@@        @@@@        @@@@@@@
+                               @@@@@@@@      @@@@      @@@@@@@@
+                                  @@@@@@@@@@@@@@@@@@@@@@@@@@
+                                    @@@@@@@@@@@@@@@@@@@@@@
+                                        @@@@@@@@@@@@@@
+                                             @@@@
+                                             @@@@
+                                             @@@@
+                                             @@@@
+                                             @@@@
+                                              @@
+                                              @@
+                                                                                
+
+
+                 
+                        

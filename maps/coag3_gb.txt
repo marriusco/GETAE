@@ -1,0 +1,83 @@
+===============================================================================================
+
+Title                   : Bloodbath of Ebon
+Filename                : coag3_gb.bsp
+Author                  : goldenboy
+Email Address           : j.nicolaisen@gmx.net
+Description             : small sized sp map for coagula contest 3
+Date                    : 04-03-2009 
+
+===============================================================================================
+
+* Play Information *
+
+===============================================================================================
+
+Single Player           : yes
+Cooperative             : yes 
+Deathmatch              : yes
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : no
+New Models              : no
+New Music               : no
+Demos Replaced          : no
+
+===============================================================================================
+
+* Construction *
+
+===============================================================================================
+
+Base                    : new map from scratch
+Editor(s) used          : Quest
+Compilers used		: bjptools
+Known Bugs              : misaligned textures (intentionally not fixed)
+Build Time              : a couple days spread over a couple weeks
+
+===============================================================================================
+* Story *
+===============================================================================================
+
+You have several weeks to make a coagula map, and you think it would be a cool
+idea to have the player pick a god and have the game vary based on that.
+
+Like, a religion system, dude. Not quite a class system, but almost.
+
+You quickly discover that stock Quake can do nothing of the sort, so you
+decide to label the map a TECH DEMO and change the theme to "kill monsters".
+
+You barely make it in time, but you realize that without a deadline you would
+never even have finished this map. So much for that. 
+
+Well, you also decide to give the poor sods a lightning gun even if they're
+not going with the god of Chaos. ... yeah.
+
+Q: It has all misaligned textures dude! 
+
+A: Please go and rub yourself until you go blind. 
+
+Q: I went back to the tram ride and the train isnt coming?
+
+A: ... go to #terrafusion on irc.quakenet.org to complain. (Hehehe)
+
+Q: What do the runes mean dude?
+
+A: Google "younger futhark". The runes mean "Hail Hel". Google Hel if you have
+to. Also google "fulltrui". But you do know how to use google, yes?
+
+Noobs.
+
+Nu skal I danse efter min pibe!
+
+-----------------------------------------------------------------------------------------------
+
+Additional Credits to: ... ... ... gimme something to shoot. And Ijed
+obviously.
+
+gb
+
+License: The map source is relased under the GPL v2 or any later version. 
+
+Word.
+

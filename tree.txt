@@ -1,0 +1,318 @@
+Folder PATH listing for volume 2-1
+Volume serial number is 7C91C22C D818:AA41
+E:.
++---baselib
+|   +---Debug
+|   |   \---Win_win
+|   +---GNU_LINUX
+|   +---Gnu_win
+|   +---Projects
+|   |   +---debug
+|   |   +---debugnosq
+|   |   +---debugnosqnis
+|   |   +---Release
+|   |   +---ReleaseNoSq
+|   |   +---ReleaseNoSqNIS
+|   |   \---_UpgradeReport_Files
+|   +---Win_win
+|   \---_lib
++---games
+|   \---walker
+|       +---debug
+|       +---release
+|       \---repo
++---gebsplib
+|   +---debug
+|   +---Projects
+|   |   +---debug
+|   |   +---debugnosq
+|   |   +---debugnosqnis
+|   |   +---Release
+|   |   +---releasenosq
+|   |   \---releasenosqnis
+|   \---release
++---gecko-sdk
+|   +---appcomps
+|   |   +---idl
+|   |   \---include
+|   +---bin
+|   +---content
+|   |   +---idl
+|   |   \---include
+|   +---cookie
+|   |   +---idl
+|   |   \---include
+|   +---dom
+|   |   +---idl
+|   |   \---include
+|   +---embedstring
+|   |   +---bin
+|   |   \---include
+|   +---embed_base
+|   |   +---bin
+|   |   +---idl
+|   |   \---include
+|   +---find
+|   |   +---idl
+|   |   \---include
+|   +---idl
+|   +---include
+|   |   +---CVS
+|   |   +---md
+|   |   +---obsolete
+|   |   \---private
+|   +---java
+|   |   \---include
+|   +---lib
+|   +---necko
+|   |   +---idl
+|   |   \---include
+|   +---nspr
+|   |   +---bin
+|   |   \---include
+|   |       +---md
+|   |       +---obsolete
+|   |       \---private
+|   +---plugin
+|   |   \---include
+|   +---pref
+|   |   +---idl
+|   |   \---include
+|   +---profile
+|   |   +---idl
+|   |   \---include
+|   +---shistory
+|   |   +---idl
+|   |   \---include
+|   +---string
+|   |   \---include
+|   +---uriloader
+|   |   +---idl
+|   |   \---include
+|   +---wallet
+|   |   +---idl
+|   |   \---include
+|   +---webbrwsr
+|   |   +---idl
+|   |   \---include
+|   +---webshell
+|   |   +---idl
+|   |   \---include
+|   +---windowwatcher
+|   |   +---idl
+|   |   \---include
+|   +---wintools
+|   |   \---buildtools
+|   |       +---CVS
+|   |       +---tar
+|   |       |   \---CVS
+|   |       \---windows
+|   |           +---batch
+|   |           |   \---CVS
+|   |           +---bin
+|   |           |   +---alpha
+|   |           |   |   \---CVS
+|   |           |   +---CVS
+|   |           |   \---x86
+|   |           |       \---CVS
+|   |           +---CVS
+|   |           +---include
+|   |           |   +---CVS
+|   |           |   \---libIDL
+|   |           |       \---CVS
+|   |           +---lib
+|   |           |   \---CVS
+|   |           \---source
+|   |               +---CVS
+|   |               +---glib
+|   |               |   \---CVS
+|   |               +---libIDL
+|   |               |   \---CVS
+|   |               +---make-3.79.1
+|   |               |   +---CVS
+|   |               |   +---glob
+|   |               |   |   \---CVS
+|   |               |   +---i18n
+|   |               |   |   \---CVS
+|   |               |   +---tests
+|   |               |   |   +---CVS
+|   |               |   |   \---scripts
+|   |               |   |       +---CVS
+|   |               |   |       +---features
+|   |               |   |       |   \---CVS
+|   |               |   |       +---functions
+|   |               |   |       |   \---CVS
+|   |               |   |       +---misc
+|   |               |   |       |   \---CVS
+|   |               |   |       +---options
+|   |               |   |       |   \---CVS
+|   |               |   |       +---targets
+|   |               |   |       |   \---CVS
+|   |               |   |       \---variables
+|   |               |   |           \---CVS
+|   |               |   \---w32
+|   |               |       +---compat
+|   |               |       |   \---CVS
+|   |               |       +---CVS
+|   |               |       +---include
+|   |               |       |   \---CVS
+|   |               |       \---subproc
+|   |               |           \---CVS
+|   |               +---shmsdos
+|   |               |   \---CVS
+|   |               \---uname
+|   |                   \---CVS
+|   +---xpcom
+|   |   +---bin
+|   |   +---idl
+|   |   \---include
+|   \---xpconnect
+|       +---idl
+|       \---include
++---getic
+|   +---Debug
+|   +---export
+|   +---getic_3ds_plug
+|   |   +---Debug
+|   |   \---Release
+|   +---getic_ms3d_plug
+|   |   +---Debug
+|   |   \---Release
+|   +---getic_qmap_plug
+|   |   +---Debug
+|   |   \---Release
+|   +---getic_ut_plug
+|   |   +---Debug
+|   |   \---Release
+|   +---Release
+|   +---ReleaseTrial
+|   +---res
+|   |   +---bpp
+|   |   |   +---t
+|   |   |   \---toolbars
+|   |   +---bppstyle
+|   |   +---Inbmps
+|   |   \---redesign
+|   +---server_levels
+|   +---temp
+|   +---textures
+|   +---trial
+|   \---_UpgradeReport_Files
++---geticnetsrv
+|   +---Multiudp
+|   +---Projects
+|   |   +---Debug
+|   |   \---Release
+|   \---SINGLEUDP
++---inputdx
+|   \---Projects
+|       +---Debug
+|       \---Release
++---maps
++---mgplug
+|   \---mgplug
+|       \---Debug
++---moge
+|   +---Debug
+|   +---Projects
+|   |   +---debug
+|   |   +---Release
+|   |   \---_UpgradeReport_Files
+|   \---_bin
++---np_xmoge
+|   +---common
+|   +---Debug
+|   +---Release
+|   +---ReleaseNoSq
+|   \---_UpgradeReport_Files
++---rendergl
+|   +---gl
+|   +---glew
+|   |   +---include
+|   |   |   \---Gl
+|   |   \---source
+|   \---Projects
+|       +---debug
+|       \---Release
++---soundal
+|   \---Projects
+|       \---Debug
++---sounddx
+|   \---Projects
+|       +---debug
+|       \---Release
++---squirel
+|   +---include
+|   +---lib
+|   +---sq
+|   |   +---Debug
+|   |   |   \---sq
+|   |   +---Debug - Unicode
+|   |   |   \---sq
+|   |   +---Release
+|   |   |   \---sq
+|   |   \---Release - Unicode
+|   |       \---sq
+|   +---sqdbg
+|   |   +---doc
+|   |   \---testscripts
+|   |       \---utils
+|   +---sqdbglib
+|   +---sqplus
+|   |   +---sqplus___win32_debug
+|   |   \---sqplus___Win32_Release
+|   +---sqstdlib
+|   |   +---Debug
+|   |   +---Release
+|   |   +---sqstdlib___win32_debug
+|   |   \---sqstdlib___win32_release
+|   +---squirrel
+|   |   +---squirrel___win32_debug
+|   |   \---squirrel___Win32_Release
+|   \---_UpgradeReport_Files
++---system
+|   +---Projects
+|   |   +---debug
+|   |   +---debugnosq
+|   |   +---debugnosqnis
+|   |   +---Release
+|   |   +---ReleaseNoSq
+|   |   \---ReleaseNoSqNIS
+|   \---rep
++---_bin
+|   +---cg
+|   +---common
+|   +---compiled
+|   +---export
+|   +---import
+|   |   +---carve
+|   |   +---colosus
+|   |   +---dddd
+|   |   +---one
+|   |   +---three
+|   |   \---two
+|   +---maps
+|   |   +---one_res
+|   |   +---three_res
+|   |   \---two_res
+|   +---plugins
+|   +---res
+|   +---scripts
+|   |   \---server
+|   +---server_levels
+|   +---temp
+|   \---textures
+|       +---non256
+|       +---quake
+|       \---res
++---_include
+|   +---cg
+|   +---Debug
+|   +---extern
+|   +---gl
+|   +---New Folder
+|   \---Release
+\---_lib
+    +---cg
+    +---contrib
+    \---extern

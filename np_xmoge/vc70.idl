@@ -1,0 +1,43 @@
+import "C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\prsht.idl";
+import "C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\mshtml.idl";
+import "c:\program files\microsoft visual studio .net 2003\vc7\platformsdk\include\dimm.idl";
+import "C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\mshtmhst.idl";
+import "c:\program files\microsoft visual studio .net 2003\vc7\platformsdk\include\docobj.idl";
+import "C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\exdisp.idl";
+import "C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\objsafe.idl";
+import "C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\shldisp.idl";
+
+[
+	object,
+	uuid(BDD9FCFF-2DE0-47C2-8E1E-5A8640E2096E),
+	dual,
+	helpstring("Igbtview Interface"),
+	pointer_default(unique)
+] 
+#line 43 "d:\\mco_code_collection\\_prjs\\getae\\np_xmoge\\gbtview.h"
+interface Igbtview : IDispatch {
+#line 45 "d:\\mco_code_collection\\_prjs\\getae\\np_xmoge\\gbtview.h"
+	[id(1),helpstring("method LoadLevel")] HRESULT  LoadLevel([in] BSTR bsURL);
+	[id(2),helpstring("method Leave")] HRESULT  Leave();
+	[id(3),helpstring("method SetProxy")] HRESULT  SetProxy([in] BSTR bsURL, [in] ULONG port);
+};
+
+
+[ version(1.0), uuid(F1F221C5-0263-4CC6-BF6D-BDB3DAC0286B), helpstring("xmoge 1.0 Type Library") ]
+library xmoge
+{
+	importlib("stdole2.tlb");
+	importlib("olepro32.dll");
+
+	[
+		version(1.0),
+		uuid(5D32D59F-942D-40AB-8D8C-F78EA015B2E7),
+		helpstring("gbtview Class")
+	] 
+#line 62 "d:\\mco_code_collection\\_prjs\\getae\\np_xmoge\\gbtview.h"
+	coclass Cgbtview {
+		interface Igbtview;
+	};
+
+}
+

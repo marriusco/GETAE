@@ -1,0 +1,90 @@
+# Microsoft Developer Studio Generated Dependency File, included by rendergl.mak
+
+.\OpenglConsts.cpp : \
+	".\OpenglRender.h"\
+	".\stdafx.h"\
+	{$(INCLUDE)}"..\\baselib\\baselib.h"\
+	{$(INCLUDE)}"basecont.h"\
+	{$(INCLUDE)}"baseutils.h"\
+	{$(INCLUDE)}"bspfilestr.h"\
+	{$(INCLUDE)}"common.h"\
+	{$(INCLUDE)}"gl\glext.h"\
+	{$(INCLUDE)}"iengine.h"\
+	{$(INCLUDE)}"iinput.h"\
+	{$(INCLUDE)}"inetwork.h"\
+	{$(INCLUDE)}"ioptions.h"\
+	{$(INCLUDE)}"irender.h"\
+	{$(INCLUDE)}"isound.h"\
+	
+
+.\OpenglRender.cpp : \
+	".\OpenglRender.h"\
+	".\stdafx.h"\
+	{$(INCLUDE)}"..\\baselib\\baselib.h"\
+	{$(INCLUDE)}"basecont.h"\
+	{$(INCLUDE)}"baseutils.h"\
+	{$(INCLUDE)}"bspfilestr.h"\
+	{$(INCLUDE)}"common.h"\
+	{$(INCLUDE)}"gl\glext.h"\
+	{$(INCLUDE)}"iengine.h"\
+	{$(INCLUDE)}"iinput.h"\
+	{$(INCLUDE)}"inetwork.h"\
+	{$(INCLUDE)}"ioptions.h"\
+	{$(INCLUDE)}"irender.h"\
+	{$(INCLUDE)}"isound.h"\
+	
+
+.\OpenGlTexts.cpp : \
+	".\OpenglRender.h"\
+	".\stdafx.h"\
+	{$(INCLUDE)}"..\\baselib\\baselib.h"\
+	{$(INCLUDE)}"basecont.h"\
+	{$(INCLUDE)}"baseutils.h"\
+	{$(INCLUDE)}"bspfilestr.h"\
+	{$(INCLUDE)}"common.h"\
+	{$(INCLUDE)}"gl\glext.h"\
+	{$(INCLUDE)}"iengine.h"\
+	{$(INCLUDE)}"iinput.h"\
+	{$(INCLUDE)}"inetwork.h"\
+	{$(INCLUDE)}"ioptions.h"\
+	{$(INCLUDE)}"irender.h"\
+	{$(INCLUDE)}"isound.h"\
+	
+
+.\OpengWindow.cpp : \
+	".\OpenglRender.h"\
+	".\stdafx.h"\
+	{$(INCLUDE)}"..\\baselib\\baselib.h"\
+	{$(INCLUDE)}"basecont.h"\
+	{$(INCLUDE)}"baseutils.h"\
+	{$(INCLUDE)}"bspfilestr.h"\
+	{$(INCLUDE)}"common.h"\
+	{$(INCLUDE)}"gl\glext.h"\
+	{$(INCLUDE)}"iengine.h"\
+	{$(INCLUDE)}"iinput.h"\
+	{$(INCLUDE)}"inetwork.h"\
+	{$(INCLUDE)}"ioptions.h"\
+	{$(INCLUDE)}"irender.h"\
+	{$(INCLUDE)}"isound.h"\
+	
+
+.\rendergl.cpp : \
+	".\OpenglRender.h"\
+	".\stdafx.h"\
+	{$(INCLUDE)}"..\\baselib\\baselib.h"\
+	{$(INCLUDE)}"basecont.h"\
+	{$(INCLUDE)}"baseutils.h"\
+	{$(INCLUDE)}"bspfilestr.h"\
+	{$(INCLUDE)}"common.h"\
+	{$(INCLUDE)}"gl\glext.h"\
+	{$(INCLUDE)}"iengine.h"\
+	{$(INCLUDE)}"iinput.h"\
+	{$(INCLUDE)}"inetwork.h"\
+	{$(INCLUDE)}"ioptions.h"\
+	{$(INCLUDE)}"irender.h"\
+	{$(INCLUDE)}"isound.h"\
+	
+
+.\StdAfx.cpp : \
+	".\stdafx.h"\
+	

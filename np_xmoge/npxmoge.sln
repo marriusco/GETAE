@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "npxmoge", "npxmoge.vcproj", "{995A6DEB-E4A7-4A5F-B1D4-6F5654A72B25}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD} = {B1972F2B-329C-4F77-8392-3C70147B8EBD}
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A} = {7560D18D-D07C-4707-ABB5-ACB233C2E11A}
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819} = {CB7501A0-6A90-4380-B4A1-FAB8A6599819}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "system", "..\system\Projects\system7.vcproj", "{CB7501A0-6A90-4380-B4A1-FAB8A6599819}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gebsplibd", "..\gebsplib\Projects\gebsplib7.vcproj", "{7560D18D-D07C-4707-ABB5-ACB233C2E11A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xmoge", "xmoge.vcproj", "{9451DF23-B897-40E4-84DE-5907C517874E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B1972F2B-329C-4F77-8392-3C70147B8EBD} = {B1972F2B-329C-4F77-8392-3C70147B8EBD}
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A} = {7560D18D-D07C-4707-ABB5-ACB233C2E11A}
+		{CB7501A0-6A90-4380-B4A1-FAB8A6599819} = {CB7501A0-6A90-4380-B4A1-FAB8A6599819}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baselib", "..\baselib\Projects\baselib.vcproj", "{B1972F2B-329C-4F77-8392-3C70147B8EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugNoSq|Win32 = DebugNoSq|Win32
+		DebugNoSqNIS|Win32 = DebugNoSqNIS|Win32
+		Release|Win32 = Release|Win32
+		ReleaseNoSq|Win32 = ReleaseNoSq|Win32
+		ReleaseNoSqNIS|Win32 = ReleaseNoSqNIS|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995A6DEB-E4A7-4A5F-B1D4-6F5654A72B25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{995A6DEB-E4A7-4A5F-B1D4-6F5654A72B25}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

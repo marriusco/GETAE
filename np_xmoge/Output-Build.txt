@@ -1,0 +1,155 @@
+------ Build started: Project: gebsplibd, Configuration: DebugNoSqNIS Win32 ------
+
+gebsplibd - up-to-date.
+
+
+------ Build started: Project: system, Configuration: DebugNoSqNIS Win32 ------
+
+system - up-to-date.
+
+
+------ Build started: Project: baselib, Configuration: DebugNoSqNIS Win32 ------
+
+baselib - up-to-date.
+
+
+------ Build started: Project: xmoge, Configuration: Debug Win32 ------
+
+Compiling...
+ngbtview.cpp
+Performing Pre-Link Event...
+        1 file(s) copied.
+Linking...
+   Creating library Debug/xmoge.lib and object Debug/xmoge.exp
+Microsoft (R) 32b/64b MIDL Compiler Version 6.00.0361 
+Copyright (c) Microsoft Corporation 1991-2002. All rights reserved.
+Processing .\_xmoge.idl
+_xmoge.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\prsht.idl
+prsht.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\wtypes.idl
+wtypes.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\basetsd.h
+basetsd.h
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\guiddef.h
+guiddef.h
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\mshtml.idl
+mshtml.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\ocidl.idl
+ocidl.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\oleidl.idl
+oleidl.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\objidl.idl
+objidl.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\unknwn.idl
+unknwn.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\oaidl.idl
+oaidl.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\servprov.idl
+servprov.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\urlmon.idl
+urlmon.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\msxml.idl
+msxml.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\dimm.idl
+dimm.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\mshtmhst.idl
+mshtmhst.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\docobj.idl
+docobj.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\exdisp.idl
+exdisp.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\objsafe.idl
+objsafe.idl
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\oaidl.acf
+oaidl.acf
+Processing C:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\PlatformSDK\include\ocidl.acf
+ocidl.acf
+OpenglShader.obj : warning LNK4217: locally defined symbol _glewGetErrorString imported in function "bool __cdecl InitOpenGLExtensions(void)" (?InitOpenGLExtensions@@YA_NXZ)
+OpenglShader.obj : warning LNK4217: locally defined symbol _glewInit imported in function "bool __cdecl InitOpenGLExtensions(void)" (?InitOpenGLExtensions@@YA_NXZ)
+OpenglShader.obj : warning LNK4217: locally defined symbol _glewGetExtension imported in function "bool __cdecl HasGLSLSupport(void)" (?HasGLSLSupport@@YA_NXZ)
+OpenglShader.obj : warning LNK4049: locally defined symbol ___GLEW_VERSION_1_2 imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___GLEW_VERSION_1_3 imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___GLEW_VERSION_1_4 imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___GLEW_VERSION_1_5 imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___GLEW_VERSION_2_0 imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewDetachShader imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewProgramParameteriEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform1f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform2f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform3f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform4f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform2i imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform3i imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform4i imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform1uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform2uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform3uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform4uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform1fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform2fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform3fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform4fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform1iv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform2iv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform3iv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform4iv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform1uivEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform2uivEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform3uivEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniform4uivEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix2fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix3fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetUniformfv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetUniformiv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetUniformuivEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewBindAttribLocation imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib1f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib2f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib3f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib4f imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib1d imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib2d imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib3d imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib4d imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib1s imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib2s imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib3s imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib4s imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttrib4Nub imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI1iEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI2iEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI3iEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI4iEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI1uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI2uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI3uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewVertexAttribI4uiEXT imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewDeleteObjectARB imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetInfoLogARB imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetObjectParameterivARB imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewCompileShaderARB imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewShaderSourceARB imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewGetAttribLocationARB imported
+OpenglShader.obj : warning LNK4049: locally defined symbol ___glewCreateShaderObjectARB imported
+
+Build log was saved at "file://d:\mco_code_collection\_prjs\Getae\xmoge\Debug\BuildLog.htm"
+xmoge - 0 error(s), 78 warning(s)
+
+
+---------------------- Done ----------------------
+
+    Build: 4 succeeded, 0 failed, 0 skipped
+
+

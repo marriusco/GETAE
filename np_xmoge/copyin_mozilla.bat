@@ -1,0 +1,5 @@
+copy npxmoge.xpt "..\_bin\"
+copy ..\_bin\npxmoge.dll "C:\Program Files\Mozilla Firefox\plugins\"
+copy ..\_bin\npxmoge.xpt "C:\Program Files\Mozilla Firefox\plugins\"
+copy ..\_bin\npxmoge.dll "C:\Program Files\Mozilla Firefox\components\"
+copy ..\_bin\npxmoge.xpt "C:\Program Files\Mozilla Firefox\components\"

@@ -1,0 +1,18 @@
+// mgplug.idl : IDL source for mgplug
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (mgplug.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(1277C9EA-7660-46DC-BC39-5F172D78A867),
+	version(1.0),
+	helpstring("mgplug 1.0 Type Library")
+]
+library mgplugLib
+{
+	importlib("stdole2.tlb");
+};

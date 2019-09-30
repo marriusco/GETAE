@@ -1,0 +1,18 @@
+#ifdef _NIS_
+//// import "oaidl.idl";
+//// import "ocidl.idl";
+#include "nsISupports.idl"
+//#include "nsIDOMWindow.idl"
+
+//xpidl -m header -I..\gecko-sdk\idl\ gbtviewNis.idl
+//xpidl -m typelib -I..\gecko-sdk\idl gbtviewNis.idl
+
+[scriptable, uuid(D6EDBDDF-99BD-4126-8DAE-CB542F9D907C)]
+interface IXpmoge : nsISupports
+{
+    //long Init(in nsIDOMWindow domWindow);
+    long LoadLevel(in string bsURL);
+};
+
+
+#endif //#ifdeff _NIS_

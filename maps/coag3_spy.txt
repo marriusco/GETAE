@@ -1,0 +1,59 @@
+===============================================================================================
+Title                   : Oneiros
+Filename                : coag3_spy.bsp
+Author                  : spy
+Email Address           : gbrknight@gmail.com
+Description             : small sized sp map for coagula contest 3
+Date                    : 03-27-2009 
+===============================================================================================
+
+* Play Information *
+
+===============================================================================================
+
+Single Player           : yes
+Cooperative             : yes 
+Deathmatch              : yes
+Difficulty Settings     : yes, easy, normal, hard and nightmare supported
+New Sounds              : no
+New Graphics            : yes, knave.wad and dkte3.wad
+New Models              : No
+New Music               : No
+Demos Replaced          : No
+
+===============================================================================================
+
+* Construction *
+
+===============================================================================================
+
+Base                    : Void
+Editor(s) used          : Valve Hammer Editor
+Known Bugs              : r_speeds
+Build Time              : 1 month on and off
+
+Texture Wad used        : id.wad,knave.wad,daikata episode 3.wad
+
+Compile machine         : P4 2.4 768 ram
+QBSP Time               : TreeQBSP v2.05 -- Modified by Bengt Jardrup - 0:09
+Light Time              : Light 1.43 ---- Modified by Bengt Jardrup - 4:47
+VIS Time                : Vis 2.31 ---- Modified by Bengt Jardrup - 57:20
+
+===============================================================================================
+* Story *
+===============================================================================================
+There is no story, just go and shoot something
+
+-----------------------------------------------------------------------------------------------
+Additional Credits to: id software for quake,textures; 
+                       ion storm for textures; 
+                       Kell for textures;
+                       valve for hammer;
+                       the Undying game for the title;
+                       Bengt Jardrup aka aguirRe for his compile tools and engine;
+                       Metlslime for Fitzquake and www.celephais.net/board;
+                       Ricky,Trinca,TheSilent - for playtesting and general tips;
+                       mr.Fribbles for inspiration;
+                       ELEK for the original Coagula maps;
+                       Spirit for www.quaddicted.com
+  

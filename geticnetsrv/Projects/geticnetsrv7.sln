@@ -1,0 +1,67 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "geticnetsrv", "geticnetsrv7.vcproj", "{DAC91AE1-2DBF-413D-8AEE-667388F4203B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6E88D232-9B23-438B-B812-AF0B550E2710} = {6E88D232-9B23-438B-B812-AF0B550E2710}
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0} = {15868DF7-250B-4DD3-A1FA-5B1FC07775B0}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gnetcli", "..\..\gnetcli\Projects\gnetcli7.vcproj", "{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baselib", "..\..\baselib\Projects\baselib7.vcproj", "{6E88D232-9B23-438B-B812-AF0B550E2710}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DebugNoSq = DebugNoSq
+		DebugNoSqNIS = DebugNoSqNIS
+		Release = Release
+		ReleaseNoSq = ReleaseNoSq
+		ReleaseNoSqNIS = ReleaseNoSqNIS
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.Debug.ActiveCfg = Debug|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.Debug.Build.0 = Debug|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.DebugNoSq.ActiveCfg = Debug|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.DebugNoSq.Build.0 = Debug|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.DebugNoSqNIS.ActiveCfg = Debug|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.DebugNoSqNIS.Build.0 = Debug|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.Release.ActiveCfg = Release|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.Release.Build.0 = Release|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.ReleaseNoSq.ActiveCfg = Release|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.ReleaseNoSq.Build.0 = Release|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.ReleaseNoSqNIS.ActiveCfg = Release|Win32
+		{DAC91AE1-2DBF-413D-8AEE-667388F4203B}.ReleaseNoSqNIS.Build.0 = Release|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.Debug.ActiveCfg = Debug|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.Debug.Build.0 = Debug|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.DebugNoSq.ActiveCfg = Debug|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.DebugNoSq.Build.0 = Debug|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.DebugNoSqNIS.ActiveCfg = Debug|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.DebugNoSqNIS.Build.0 = Debug|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.Release.ActiveCfg = Release|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.Release.Build.0 = Release|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.ReleaseNoSq.ActiveCfg = Release|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.ReleaseNoSq.Build.0 = Release|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.ReleaseNoSqNIS.ActiveCfg = Release|Win32
+		{15868DF7-250B-4DD3-A1FA-5B1FC07775B0}.ReleaseNoSqNIS.Build.0 = Release|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.Debug.ActiveCfg = Debug|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.Debug.Build.0 = Debug|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.DebugNoSq.ActiveCfg = DebugNoSq|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.DebugNoSq.Build.0 = DebugNoSq|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.DebugNoSqNIS.ActiveCfg = DebugNoSqNIS|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.DebugNoSqNIS.Build.0 = DebugNoSqNIS|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.Release.ActiveCfg = Release|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.Release.Build.0 = Release|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.ReleaseNoSqNIS.ActiveCfg = ReleaseNoSqNIS|Win32
+		{6E88D232-9B23-438B-B812-AF0B550E2710}.ReleaseNoSqNIS.Build.0 = ReleaseNoSqNIS|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

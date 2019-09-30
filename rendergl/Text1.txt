@@ -1,0 +1,91 @@
+void void MCylinder::SRender(BOOL isd3, UINT fn)
+{
+
+	REAL *V = reinterpret_cast<REAL*>(malloc( sizeof(REAL) * (8 * 3 * 2) * 2 ) );
+
+	REAL *N = reinterpret_cast<REAL*>(malloc( sizeof(REAL) * (8 * 3 * 2) * 2 ) );
+
+	REAL a = 2.0 * 3.14159265 / (8-1);
+	REAL Q = 3.14159265 / 2.0;
+	REAL Ylength = _length / 2;
+	REAL YNormal = 20 / _length  * -1;
+	REAL Cos1,Sin1,R;
+
+	int ix = 0,iy = 0;
+	for ( int o = 0;o < 2;o++ ) {
+
+		for ( int i = 0;i < 8 ;i++,ix +=6 ) {
+
+			R = ( (i+1) * a ) + Q;
+			Cos1 = cos( R );
+			Sin1 = sin( R );
+			V[ix+0] = V[ix+3] = Cos1 * 20;
+			V[ix+2] = V[ix+5] = Sin1 * 20;
+			V[ix+1] = (Ylength * o );
+			V[ix+4] = (Ylength * o) + Ylength;
+
+			N[ix+0] = N[ix+3] = Cos1 *  1;
+			N[ix+1] = N[ix+4] = YNormal;
+			N[ix+2] = N[ix+5] = Sin1 *  1;
+		}
+	}
+
+//	glBegin(GL_LINE_STRIP);
+	glBegin(GL_TRIANGLE_STRIP);
+
+		REAL Max = ( 8 * 3 * 2 ) * 2;
+		for ( int i = 0;i < Max ;i+=6) {
+
+			glNormal3fv( &N[i] );
+			glVertex3fv( &V[i] );
+			glNormal3fv( &N[i+3] );
+			glVertex3fv( &V[i+3] );
+		}
+
+	glEnd();
+	
+
+	ix  = 0;
+	iy  = 8 * 3 * 2; 
+	for ( i = 0;i < 8 ;i++,ix+=6,iy+=6 ) {
+
+		R = ( (i+1) * a ) + Q;
+		Cos1 = cos( R );
+		Sin1 = sin( R );
+		V[ix+0] = V[iy+0] = Cos1 * 20;
+		V[ix+2] = V[iy+2] = Sin1 * 20;
+		V[ix+3] = V[iy+3] = 0;
+		V[ix+5] = V[iy+3] = 0;
+
+		V[ix+1] = V[ix+4] = 0;
+		V[iy+1] = V[iy+4] = _length;
+
+		N[ix+0] = N[ix+3] = 0;
+		N[ix+2] = N[ix+5] = 0;
+		N[ix+1] = -1.0;
+		N[ix+4] = -1.0;
+		N[iy+0] = N[iy+3] = 0;
+		N[iy+2] = N[iy+5] = 0;
+		N[iy+1] = 1.0;
+		N[iy+4] = 1.0;
+	}
+	glBegin(GL_TRIANGLE_STRIP);
+
+		Max = ( 8 * 3 * 2 );
+		for ( i = Max;i >= 0 ;i-=3) {
+			glNormal3fv( &N[i] );
+			glVertex3fv( &V[i] );
+		}
+
+		int b = 8 * 3*2;
+		for ( i = Max;i >= 0 ;i-=3) {
+			glNormal3fv( &N[i+ b] );
+			glVertex3fv( &V[i+ b] );
+		}
+
+	glEnd();
+
+	free( V );
+	free( N );
+
+}

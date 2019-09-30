@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gebsplibd", "gebsplib7.vcproj", "{7560D18D-D07C-4707-ABB5-ACB233C2E11A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DebugNoSq = DebugNoSq
+		DebugNoSqNIS = DebugNoSqNIS
+		Release = Release
+		ReleaseNoSq = ReleaseNoSq
+		ReleaseNoSqNIS = ReleaseNoSqNIS
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Debug.ActiveCfg = Debug|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Debug.Build.0 = Debug|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSq.ActiveCfg = DebugNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSq.Build.0 = DebugNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSqNIS.ActiveCfg = DebugNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.DebugNoSqNIS.Build.0 = DebugNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Release.ActiveCfg = Release|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.Release.Build.0 = Release|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSq.ActiveCfg = ReleaseNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSq.Build.0 = ReleaseNoSq|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSqNIS.ActiveCfg = ReleaseNoSqNIS|Win32
+		{7560D18D-D07C-4707-ABB5-ACB233C2E11A}.ReleaseNoSqNIS.Build.0 = ReleaseNoSqNIS|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
